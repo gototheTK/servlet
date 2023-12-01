@@ -1,10 +1,10 @@
-package hello.servlet.hello.servlet.web.servlet;
+package hello.servlet.web.servlet;
 
 import java.io.IOException;
 import java.io.PrintWriter;
 
-import hello.servlet.hello.servlet.domain.Member;
-import hello.servlet.hello.servlet.domain.MemberRepository;
+import hello.servlet.domain.Member;
+import hello.servlet.domain.MemberRepository;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
